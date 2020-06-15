@@ -120,7 +120,7 @@
                 <version>2.8</version>
         <configuration>
           <includes>
-            <include>**/Test*.java</include>
+            <include>RunnerClass.java</include>
           </includes>
         </configuration>
             </plugin>
