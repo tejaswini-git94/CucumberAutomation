@@ -15,6 +15,6 @@ import io.cucumber.junit.Cucumber;
  ,glue={"com/flipkart/automation/stepdefs"}, tags={"@searchtest1"},plugin = { "pretty", "html:target/cucumber-reports" },
  monochrome = true)
 
-public class TestRunnerClass {
+public class TestRunner {
 	 
 }
